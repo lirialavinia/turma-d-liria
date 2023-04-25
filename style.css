@@ -1,0 +1,16 @@
+.lista_item_cabecalho{
+text-align: center;
+margin: 2px;
+
+
+}
+
+.imagem{
+    width: 10%;
+    height: 10%;
+}
+
+.texto{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
