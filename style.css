@@ -1,16 +1,16 @@
-.lista_item_cabecalho{
-text-align: center;
-margin: 2px;
-
+:root{
+    --cor-de-fundo:#ebecee;
+ --branco: #ffffff;
+ --laramja: #eb9800;
+ --azul-gradiente: linear-gradiente(97.54deg, #002f52 35.49%, #326589 165.37%);
+ --fonte-principal: "Poppins";
+ --azul: #002f52;
 
 }
 
-.imagem{
-    width: 10%;
-    height: 10%;
-}
+body{
+background-color: var(--cor-de-fundo);
+font-family: var(--fonte-principal);
 
-.texto{
 
-    font-family: Arial, Helvetica, sans-serif;
 }
